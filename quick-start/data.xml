@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cereal>
+	<m1>
+		<value0>18</value0>
+		<value1>6</value1>
+		<value2>2019</value2>
+	</m1>
+	<value0>777</value0>
+	<this_name_is_way_better>1000</this_name_is_way_better>
+</cereal>
+
